@@ -1,0 +1,98 @@
+.tarjeta{
+    width: 300px;
+    height: 500px;
+    
+
+}
+.mas{
+    top: 240px;
+    left: 280px;
+    background: linear-gradient(to right, blue,black);
+    position: relative;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+
+}
+
+.icono{
+    font-size: 40px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.cabecera{
+    height: 300px;
+    width: 300px;
+    background: linear-gradient(to right, blue,black);
+    border-radius: 10%;
+    border-radius: 10px 10px 0 0;
+}
+
+.FotoPerfil{
+    text-align: center;
+}
+
+.imagen{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-top: 50px;
+}
+
+.NombreCompleto{
+    text-align: center;
+    font-size: 24px;
+    color: #ffffff;
+}
+
+
+.Informacion{
+    text-align: center;
+    font-size: 15px;
+    color: #ffffff;
+}
+
+
+
+.data{
+    height: 200px;
+    width: 300px;
+    background-color: #222222;
+    border-radius: 0 0 10px 10px;
+
+}
+
+.datos{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    text-align: center;
+    padding: 15px;
+    font-size: 18px;
+    font-style: italic;
+    color: #ffffff;
+
+}
+
+.boton{
+    background: linear-gradient(to right, blue,black);
+    border-radius: 5%;
+    width:120px;
+    color: white;
+    text-align: center;
+    margin-left: 90px;
+    font-size: 15px;
+    height: 25px;
+    cursor: pointer;
+    
+
+}
+
+.boton-info{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+    color: #ffffff;
+
+}
+
